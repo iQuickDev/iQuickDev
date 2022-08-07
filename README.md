@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iquickdev" alt="iquickdev" /></a> </p>
 
-- 🔭 I’m currently working on **OpenCloud**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Vue.js and MongoDB**
+- 🌱 I’m currently learning **Vue 3 and AI**
 
 - 📫 How to reach me **iquickpublic@gmail.com or iQuick#0541 (discord)**
 
