@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Vue 3 and AI**
+- 🌱 I’m currently learning **The Rust Programming Language**
 
 - 📫 How to reach me **iquickpublic@gmail.com or iQuick#0541 (discord)**
 
