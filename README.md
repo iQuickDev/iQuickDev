@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm a passionate 21 year old developer based in Italy, currently employed.
+I'm a passionate 22 year old developer based in Italy, currently employed.
 I like to study new technologies such as languages and frameworks on my own and I really enjoy collaborating with others to make the best projects.
 Open Source software is my favorite and I'm glad to contribute to FOSS being part of the Linux community (i use Arch btw).
 My favorite programming language is JavaScript along with TypeScript and I am currently learning Rust to build blazing fast applications
